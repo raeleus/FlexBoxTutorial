@@ -1,0 +1,299 @@
+{
+"com.badlogic.gdx.graphics.g2d.BitmapFont": {
+	"capitalist-button-font": {
+		"file": "capitalist-button-font.fnt"
+	},
+	"capitalist-copyright-font": {
+		"file": "capitalist-copyright-font.fnt"
+	},
+	"package-font": {
+		"file": "package-font.fnt"
+	},
+	"package-title-font": {
+		"file": "package-title-font.fnt"
+	}
+},
+"com.badlogic.gdx.graphics.Color": {
+	"capitalist": {
+		"r": 0.20784314,
+		"g": 0.25882354,
+		"b": 0,
+		"a": 1
+	},
+	"shadow": {
+		"r": 0,
+		"g": 0,
+		"b": 0,
+		"a": 0.4775281
+	},
+	"package-diamond": {
+		"r": 0,
+		"g": 0.7647059,
+		"b": 1,
+		"a": 1
+	},
+	"package-gold": {
+		"r": 1,
+		"g": 0.9490196,
+		"b": 0,
+		"a": 1
+	},
+	"white": {
+		"r": 1,
+		"g": 1,
+		"b": 1,
+		"a": 1
+	}
+},
+"com.ray3k.tenpatch.TenPatchDrawable": {
+	"capitalist-bg-tile": {
+		"region": "capitalist-bg",
+		"horizontalStretchAreas": [ 0, 394 ],
+		"verticalStretchAreas": [ 0, 331 ],
+		"tiling": true,
+		"minWidth": 395,
+		"minHeight": 332,
+		"rightWidth": 0,
+		"leftWidth": 0,
+		"bottomHeight": 0,
+		"topHeight": 0,
+		"offsetX": 0,
+		"offsetY": 0,
+		"offsetXspeed": 9,
+		"offsetYspeed": 9,
+		"frameDuration": 0.03,
+		"regions": [],
+		"playMode": 2,
+		"crushMode": 0
+	},
+	"capitalist-button-down-10": {
+		"region": "capitalist-button-down",
+		"horizontalStretchAreas": [ 14, 188 ],
+		"verticalStretchAreas": [ 14, 36 ],
+		"tiling": false,
+		"minWidth": 203,
+		"minHeight": 53,
+		"rightWidth": 9,
+		"leftWidth": 9,
+		"bottomHeight": 9,
+		"topHeight": 11,
+		"offsetX": 0,
+		"offsetY": 0,
+		"offsetXspeed": 0,
+		"offsetYspeed": 0,
+		"frameDuration": 0.03,
+		"regions": [],
+		"playMode": 2,
+		"crushMode": 0
+	},
+	"capitalist-button-over-10": {
+		"region": "capitalist-button-over",
+		"horizontalStretchAreas": [ 14, 188 ],
+		"verticalStretchAreas": [ 14, 36 ],
+		"tiling": false,
+		"minWidth": 203,
+		"minHeight": 53,
+		"rightWidth": 9,
+		"leftWidth": 9,
+		"bottomHeight": 11,
+		"topHeight": 9,
+		"offsetX": 0,
+		"offsetY": 0,
+		"offsetXspeed": 0,
+		"offsetYspeed": 0,
+		"frameDuration": 0.03,
+		"regions": [],
+		"playMode": 2,
+		"crushMode": 0
+	},
+	"capitalist-button-up-10": {
+		"region": "capitalist-button-up",
+		"horizontalStretchAreas": [ 14, 188 ],
+		"verticalStretchAreas": [ 14, 36 ],
+		"tiling": false,
+		"minWidth": 203,
+		"minHeight": 53,
+		"rightWidth": 9,
+		"leftWidth": 9,
+		"bottomHeight": 11,
+		"topHeight": 9,
+		"offsetX": 0,
+		"offsetY": 0,
+		"offsetXspeed": 0,
+		"offsetYspeed": 0,
+		"frameDuration": 0.03,
+		"regions": [],
+		"playMode": 2,
+		"crushMode": 0
+	},
+	"diamond-background-tile": {
+		"region": "diamond-background",
+		"horizontalStretchAreas": [ 21, 324 ],
+		"verticalStretchAreas": [ 21, 301 ],
+		"tiling": true,
+		"minWidth": 346,
+		"minHeight": 323,
+		"rightWidth": 23,
+		"leftWidth": 23,
+		"bottomHeight": 23,
+		"topHeight": 23,
+		"offsetX": 0,
+		"offsetY": 0,
+		"offsetXspeed": 0,
+		"offsetYspeed": 0,
+		"frameDuration": 0.03,
+		"regions": [],
+		"playMode": 2,
+		"crushMode": 0
+	},
+	"gold-background-tile": {
+		"region": "gold-background",
+		"horizontalStretchAreas": [ 21, 324 ],
+		"verticalStretchAreas": [ 21, 301 ],
+		"tiling": true,
+		"minWidth": 346,
+		"minHeight": 323,
+		"rightWidth": 23,
+		"leftWidth": 23,
+		"bottomHeight": 23,
+		"topHeight": 23,
+		"offsetX": 0,
+		"offsetY": 0,
+		"offsetXspeed": 0,
+		"offsetYspeed": 0,
+		"frameDuration": 0.03,
+		"regions": [],
+		"playMode": 2,
+		"crushMode": 0
+	},
+	"silver-background-tile": {
+		"region": "silver-background",
+		"horizontalStretchAreas": [ 21, 324 ],
+		"verticalStretchAreas": [ 21, 301 ],
+		"tiling": true,
+		"minWidth": 346,
+		"minHeight": 323,
+		"rightWidth": 23,
+		"leftWidth": 23,
+		"bottomHeight": 23,
+		"topHeight": 23,
+		"offsetX": 0,
+		"offsetY": 0,
+		"offsetXspeed": 0,
+		"offsetYspeed": 0,
+		"frameDuration": 0.03,
+		"regions": [],
+		"playMode": 2,
+		"crushMode": 0
+	},
+	"some-drawable": {
+		"region": "some-drawable-source",
+		"horizontalStretchAreas": [ 4, 98 ],
+		"verticalStretchAreas": [ 4, 98 ],
+		"tiling": false,
+		"minWidth": 103,
+		"minHeight": 103,
+		"rightWidth": 4,
+		"leftWidth": 4,
+		"bottomHeight": 4,
+		"topHeight": 4,
+		"offsetX": 0,
+		"offsetY": 0,
+		"offsetXspeed": 0,
+		"offsetYspeed": 0,
+		"frameDuration": 0.03,
+		"regions": [],
+		"playMode": 2,
+		"crushMode": 0
+	},
+	"some-other-drawable": {
+		"region": "some-other-drawable-source",
+		"horizontalStretchAreas": [ 4, 98 ],
+		"verticalStretchAreas": [ 4, 98 ],
+		"tiling": false,
+		"minWidth": 103,
+		"minHeight": 103,
+		"rightWidth": 4,
+		"leftWidth": 4,
+		"bottomHeight": 4,
+		"topHeight": 4,
+		"offsetX": 0,
+		"offsetY": 0,
+		"offsetXspeed": 0,
+		"offsetYspeed": 0,
+		"frameDuration": 0.03,
+		"regions": [],
+		"playMode": 2,
+		"crushMode": 0
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle": {
+	"default": {
+		"up": "diamond-button",
+		"down": "diamond-button-down"
+	},
+	"package-diamond": {
+		"up": "diamond-button",
+		"down": "diamond-button-down"
+	},
+	"package-gold": {
+		"up": "gold-button",
+		"down": "gold-button-down"
+	},
+	"package-silver": {
+		"up": "silver-button",
+		"down": "silver-button-down"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+	"default": {
+		"font": "capitalist-button-font"
+	},
+	"capitalist-copyright": {
+		"font": "capitalist-copyright-font"
+	},
+	"package-diamond": {
+		"font": "package-font",
+		"fontColor": "package-diamond"
+	},
+	"package-gold": {
+		"font": "package-font",
+		"fontColor": "package-gold"
+	},
+	"package-silver": {
+		"font": "package-font",
+		"fontColor": "white"
+	},
+	"package-title-diamond": {
+		"font": "package-title-font",
+		"fontColor": "package-diamond"
+	},
+	"package-title-gold": {
+		"font": "package-title-font",
+		"fontColor": "package-gold"
+	},
+	"package-title-silver": {
+		"font": "package-title-font",
+		"fontColor": "white"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+	"default": {
+		"font": "capitalist-button-font",
+		"up": "capitalist-button-up-10",
+		"down": "capitalist-button-down-10",
+		"over": "capitalist-button-over-10"
+	},
+	"capitalist": {
+		"font": "capitalist-button-font",
+		"up": "capitalist-button-up-10",
+		"down": "capitalist-button-down-10",
+		"over": "capitalist-button-over-10"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle": {
+	"default": {
+		"label": "default"
+	}
+}
+}

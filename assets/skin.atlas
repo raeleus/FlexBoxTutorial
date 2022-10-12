@@ -1,0 +1,216 @@
+
+skin.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+capitalist-bg
+  rotate: false
+  xy: 703, 1590
+  size: 395, 332
+  orig: 395, 332
+  offset: 0, 0
+  index: -1
+capitalist-button-down
+  rotate: false
+  xy: 1796, 1917
+  size: 203, 53
+  orig: 203, 53
+  offset: 0, 0
+  index: -1
+capitalist-button-font
+  rotate: false
+  xy: 1002, 1983
+  size: 506, 64
+  orig: 506, 64
+  offset: 0, 0
+  index: -1
+capitalist-button-over
+  rotate: false
+  xy: 686, 389
+  size: 203, 53
+  orig: 203, 53
+  offset: 0, 0
+  index: -1
+capitalist-button-up
+  rotate: false
+  xy: 1796, 1862
+  size: 203, 53
+  orig: 203, 53
+  offset: 0, 0
+  index: -1
+capitalist-copyright-font
+  rotate: false
+  xy: 1, 153
+  size: 506, 196
+  orig: 506, 196
+  offset: 0, 0
+  index: -1
+capitalist-logo
+  rotate: false
+  xy: 1, 351
+  size: 683, 725
+  orig: 683, 725
+  offset: 0, 0
+  index: -1
+capitalist-title
+  rotate: false
+  xy: 1, 1924
+  size: 999, 123
+  orig: 999, 123
+  offset: 0, 0
+  index: -1
+diamond-background
+  rotate: false
+  xy: 703, 1265
+  size: 346, 323
+  orig: 346, 323
+  offset: 0, 0
+  index: -1
+diamond-button
+  rotate: false
+  xy: 686, 444
+  size: 268, 92
+  orig: 268, 92
+  offset: 0, 0
+  index: -1
+diamond-button-down
+  rotate: false
+  xy: 1100, 1550
+  size: 268, 93
+  orig: 268, 93
+  offset: 0, 0
+  index: -1
+diamond-divider
+  rotate: false
+  xy: 1, 1
+  size: 276, 11
+  orig: 276, 11
+  offset: 0, 0
+  index: -1
+diamond-medal
+  rotate: false
+  xy: 686, 551
+  size: 281, 370
+  orig: 281, 370
+  offset: 0, 0
+  index: -1
+gold-background
+  rotate: false
+  xy: 1100, 1658
+  size: 346, 323
+  orig: 346, 323
+  offset: 0, 0
+  index: -1
+gold-button
+  rotate: false
+  xy: 1051, 1456
+  size: 268, 92
+  orig: 268, 92
+  offset: 0, 0
+  index: -1
+gold-button-down
+  rotate: false
+  xy: 1051, 1361
+  size: 268, 93
+  orig: 268, 93
+  offset: 0, 0
+  index: -1
+gold-divider
+  rotate: false
+  xy: 1100, 1645
+  size: 276, 11
+  orig: 276, 11
+  offset: 0, 0
+  index: -1
+gold-medal
+  rotate: false
+  xy: 509, 9
+  size: 282, 340
+  orig: 282, 340
+  offset: 0, 0
+  index: -1
+package-font
+  rotate: false
+  xy: 1510, 1972
+  size: 505, 75
+  orig: 505, 75
+  offset: 0, 0
+  index: -1
+package-title-font
+  rotate: false
+  xy: 1, 14
+  size: 506, 137
+  orig: 506, 137
+  offset: 0, 0
+  index: -1
+panel1
+  rotate: false
+  xy: 1, 1642
+  size: 700, 280
+  orig: 700, 280
+  offset: 0, 0
+  index: -1
+panel2
+  rotate: false
+  xy: 1, 1360
+  size: 700, 280
+  orig: 700, 280
+  offset: 0, 0
+  index: -1
+panel3
+  rotate: false
+  xy: 1, 1078
+  size: 700, 280
+  orig: 700, 280
+  offset: 0, 0
+  index: -1
+silver-background
+  rotate: false
+  xy: 1448, 1647
+  size: 346, 323
+  orig: 346, 323
+  offset: 0, 0
+  index: -1
+silver-button
+  rotate: false
+  xy: 1051, 1267
+  size: 268, 92
+  orig: 268, 92
+  offset: 0, 0
+  index: -1
+silver-button-down
+  rotate: false
+  xy: 1051, 1172
+  size: 268, 93
+  orig: 268, 93
+  offset: 0, 0
+  index: -1
+silver-divider
+  rotate: false
+  xy: 686, 538
+  size: 276, 11
+  orig: 276, 11
+  offset: 0, 0
+  index: -1
+silver-medal
+  rotate: false
+  xy: 703, 923
+  size: 282, 340
+  orig: 282, 340
+  offset: 0, 0
+  index: -1
+some-drawable-source
+  rotate: false
+  xy: 1796, 1757
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+some-other-drawable-source
+  rotate: false
+  xy: 1796, 1652
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
