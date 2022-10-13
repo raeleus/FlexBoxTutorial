@@ -171,4 +171,4 @@ Now this is a good, better, best kind of menu. Maybe you can implement your bull
 
 ## Conclusion
 
-Well, that’s it. FlexBox is going to revolutionize how you do UI! And by revolutionize, I mean marginally make it better. But every little counts, right? Anyway, keep the skies clear amigos.
+Well, that’s it. FlexBox is going to revolutionize how you do UI! And by revolutionize, I mean marginally make it better. But every little bit counts, right? Anyway, keep the skies clear amigos.
